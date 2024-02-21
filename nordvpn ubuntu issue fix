@@ -1,0 +1,5 @@
+CMD: nordvpn help login 
+will give you hints.
+
+The default, browser based login worked for me, but instead of opening the link at the success page, I copied the nordvpn://... url, and finished logging in in the console by using 
+CMD: nordvpn login --callback "nordvpn://success-uri-I-copied-from-browser".

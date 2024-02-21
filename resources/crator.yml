@@ -1,0 +1,8 @@
+crawler.depth: 3
+crawler.max_links: 1000000
+crawler.max_time: 86400
+crawler.random_wait: true
+crawler.wait_request: 1500
+data_directory: /home/jadelab/git/Dark-Web-Crawler/data
+http_proxy: socks5h://localhost:9050
+project_name: cocorico-market
